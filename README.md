@@ -3,11 +3,10 @@ Hey guys This a bash script tool to connect ssh Easily without any commands
 
 
 # This Tool test on 👨‍💻 :
--Ubuntu
 
--Kali
-
--Termux
+- ubuntu
+- Kali
+- Termux
 
 🛑 Installation And Requirements 🛑
 ```bash

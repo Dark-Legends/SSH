@@ -1,5 +1,5 @@
 # 🛰 SSH
-Hey guys This a bash script tool to connect ssh Easily without any commands
+Hey guys This a bash script tool to connect ssh Easily without any use commands
 
 
 # This Tool test on 👨‍💻 :

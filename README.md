@@ -1,14 +1,13 @@
 # 🛰 SSH
 Hey guys This a bash script tool to connect ssh Easily without any use commands
 
-<img src="Screenshot_2023_0926_122919.png"/>
 
 # This Tool test on 👨‍💻 :
 
 - ubuntu
 - Kali
 - Termux
-
+- debian
 🛑 Installation And Requirements 🛑
 ```bash
 apt-get update && apt-get upgrade -y
@@ -26,8 +25,5 @@ git clone https://github.com/Dark-Legends/SSH
 cd SSH
 ```
 ```bash
-chmod +x sshPort.sh
-```
-```bash
-./sshPort.sh
+chmod +x sshPort.sh && ./sshPort.sh 
 ```
